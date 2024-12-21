@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Natalie</h1>
-<h3 align="center">Boston University CS 2025 | GHC 2024 | Michelin / Break Through Tech AI MIT</h3>
+<h3 align="center">Boston University CS 2025 | GHC 2024 | Break Through Tech AI MIT</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   https://www.linkedin.com/in/nataliemcheng/ 
+</p>
+
+<p>
+  Michelin Mobility Intelligence Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for Michelin for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio! https://github.com/hillarydunkley16/BTTteam9
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
